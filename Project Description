@@ -1,0 +1,39 @@
+This Power BI Dashboard provides an interactive and data-driven approach to analyzing hotel revenue performance, occupancy trends and trend key metrics. It enables hotel management to monitor key performance indicators (KPIs) such as Revenue Per Available Room (RevPAR), Daily Sellable Room Nights (DSRN), Realization %, and Occupancy %, helping in strategic decision-making and revenue optimization. This Power BI dashboard showcases advanced data visualization, DAX calculations, and interactive analytics, making it a powerful tool for hotel revenue management.
+
+Key Features & Insights
+	KPI Summary (Top-left panel)
+Revenue (1.71bn): Total revenue generated across properties.
+RevPAR (7,347): Revenue per available room, a key profitability metric.
+DSRN (2,528): Daily Sellable Room Nights, tracking room availability.
+Realization % (70.15%): Percentage of booked rooms relative to sellable rooms.
+Occupancy % (58%): Hotel occupancy rate, essential for capacity planning.
+ADR (12.7K): Average Daily Rate, tracking pricing trends.
+
+	Revenue Breakdown by Category (Bar Chart - Top Right)
+Splits revenue into Luxury vs. Business hotel segments to analyze customer preferences.
+
+	Trend Analysis - Key Metrics Over Time (Line Chart - Right Panel)
+Tracks RevPAR, ADR, and Occupancy % trends weekly to identify patterns and anomalies.
+
+	Performance Breakdown by Property (Table - Bottom Right)
+Provides a property-wise comparison across cities, showing revenue, occupancy %, and cancellations.
+
+	Realization % & ADR by Booking Platform (Bar & Line Chart - Bottom Left)
+Analyzes how different booking platforms (e.g., direct, online travel agencies, market aggregators) contribute to revenue and room realization.
+
+	Interactive Slicers & Filters (Top Panel)
+Users can filter insights by City, Room Type, and Time Period (Week Selection) to drill down into specific data.
+
+Business Use Case
+This dashboard helps hotel managers, revenue analysts, and stakeholders:
+•	Optimize pricing strategies based on RevPAR and ADR trends.
+•	Improve occupancy rates by analyzing weekend vs. weekday performance.
+•	Benchmark hotel performance against industry averages.
+•	Identify high-performing & underperforming properties to strategize improvements.
+
+How to Use This Dashboard
+•	Select a City & Room Type and week number to filter data dynamically.
+•	Analyze Trends & Key Metrics to spot opportunities.
+•	Compare Property Performance and identify revenue growth strategies.
+•	Drill Down into Revenue Categories (Luxury vs. Business) for better customer targeting.
+
