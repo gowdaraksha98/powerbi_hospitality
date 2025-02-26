@@ -1,4 +1,8 @@
-This Power BI Dashboard provides an interactive and data-driven approach to analyzing hotel revenue performance, occupancy trends and trend key metrics. It enables hotel management to monitor key performance indicators (KPIs) such as Revenue Per Available Room (RevPAR), Daily Sellable Room Nights (DSRN), Realization %, and Occupancy %, helping in strategic decision-making and revenue optimization. This Power BI dashboard showcases advanced data visualization, DAX calculations, and interactive analytics, making it a powerful tool for hotel revenue management.
+This Power BI Dashboard provides an interactive and data-driven approach to analyzing hotel revenue performance, 
+occupancy trends and trend key metrics. It enables hotel management to monitor key performance indicators (KPIs) 
+such as Revenue Per Available Room (RevPAR), Daily Sellable Room Nights (DSRN), Realization %, and Occupancy %, helping in 
+strategic decision-making and revenue optimization. This Power BI dashboard showcases advanced data visualization, 
+DAX calculations, and interactive analytics, making it a powerful tool for hotel revenue management.
 
 Key Features & Insights
 	KPI Summary (Top-left panel)
